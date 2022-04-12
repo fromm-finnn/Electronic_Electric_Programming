@@ -1,0 +1,9 @@
+﻿  midterm.c
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project3\Project3\midterm.c(32,19): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project3\Project3\midterm.c(32,35): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project3\Project3\midterm.c(40,19): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project3\Project3\midterm.c(40,39): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project3\Project3\midterm.c(53,38): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project3\Project3\midterm.c(53,79): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project3\Project3\midterm.c(65,24): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : fatal error LNK1104: 'C:\Users\김동찬\Documents\대학\전전프\midterm\Project3\Debug\Project3.exe' 파일을 열 수 없습니다.

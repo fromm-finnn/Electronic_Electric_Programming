@@ -1,0 +1,3 @@
+﻿  2017312719.c
+C:\Users\김동찬\Documents\대학\전전프\과제9\practice7\찐practice7\practice7\practice7\2017312719.c(170,10): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+LINK : fatal error LNK1168: C:\Users\김동찬\Documents\대학\전전프\과제9\practice7\찐practice7\practice7\Debug\practice7.exe을(를) 쓰기용으로 열 수 없습니다.

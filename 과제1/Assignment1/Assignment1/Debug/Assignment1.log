@@ -1,0 +1,4 @@
+﻿  Assignment1.c
+C:\Users\김동찬\Documents\전전프\과제1\Assignment1\Assignment1\Assignment1.c(101,20): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\김동찬\Documents\전전프\과제1\Assignment1\Assignment1\Assignment1.c(104,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Assignment1.vcxproj -> C:\Users\김동찬\Documents\전전프\과제1\Assignment1\Debug\Assignment1.exe

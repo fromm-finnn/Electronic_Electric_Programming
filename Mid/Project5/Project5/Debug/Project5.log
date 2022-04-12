@@ -1,0 +1,16 @@
+﻿  소스.c
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(55,30): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(63,28): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(71,28): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(79,35): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(79,35): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(94,53): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(94,68): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(107,29): warning C4244: '함수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(114,43): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(121,74): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(127,24): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(127,32): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(311,45): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Project5\소스.c(313,46): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project5.vcxproj -> C:\Users\김동찬\Documents\대학\전전프\midterm\Project5\Debug\Project5.exe

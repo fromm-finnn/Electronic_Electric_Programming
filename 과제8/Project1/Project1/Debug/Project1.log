@@ -1,0 +1,5 @@
+﻿  Lecture9.c
+C:\Users\김동찬\Documents\대학\전전프\과제8\Project1\Project1\Lecture9.c(468,9): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\김동찬\Documents\대학\전전프\과제8\Project1\Project1\Lecture9.c(469,9): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\김동찬\Documents\대학\전전프\과제8\Project1\Project1\Lecture9.c(481,14): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project1.vcxproj -> C:\Users\김동찬\Documents\대학\전전프\과제8\Project1\Debug\Project1.exe
